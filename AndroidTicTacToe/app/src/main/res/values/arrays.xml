@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_difficulty_level">
+        <item>@string/difficulty_easy</item>
+        <item>@string/difficulty_medium</item>
+        <item>@string/difficulty_hard</item>
+    </string-array>
+    
+    <string-array name="list_order">
+        <item>@string/order_alternates</item>
+        <item>@string/order_last_loser</item>
+        <item>@string/order_loser_first</item>
+        <item>@string/order_random</item>
+        <item>@string/order_always_human</item>
+        <item>@string/order_always_android</item>
+    </string-array>
+
+</resources>
